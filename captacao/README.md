@@ -89,7 +89,7 @@ captacao/
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **Rayan**.
+Feito por **Rayan**.
 
 <div align="center">
 
